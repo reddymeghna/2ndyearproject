@@ -1,0 +1,110 @@
+.leftSection {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    height: 100vh;
+    overflow-y: auto; /* Enable vertical scrolling */
+    /* align-items: center; */
+}
+.newChat {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 10px 20px; */
+    height: 16%;
+    padding-top: 55px;
+    padding-bottom: -1px;
+    padding-left: 10px;
+}
+ 
+.text1{
+    color: white;
+    font-size: 29px;
+    padding-bottom: 100px;
+}
+.text2{
+    color: white;
+    font-size:17px;
+    /* padding-top: 90px; */
+    /* padding-bottom: -1px; */
+    
+}
+
+.newChat div{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    /* padding-top: 55px; */
+    /* padding-bottom: 100px; */
+    
+
+}
+.userInfo {
+    display: flex;
+    align-items: center;
+    margin-top: auto; /* Push this section to the bottom */
+    padding-bottom: 30px;
+}
+.newChat div img{
+    border-radius: 50%;
+    /* padding-bottom: -1px; */
+    padding-bottom: 100px;
+    
+}
+.newChat svg {
+    width: 30px;
+    height: 30px;
+    color: var(--col1);
+    padding-bottom: -1px;
+    padding-top: 55px;
+
+
+}
+
+
+
+
+
+
+.chatHistory {
+    margin-top: 20px;
+    flex-grow: 1; /* Allow chat history to grow and fill available space */
+    overflow-y: auto; /* Enable vertical scrolling */
+    max-height: 60vh; /* Set a max height for the chat history */
+}
+
+.chatItem {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.chatPrompt {
+    font-weight: bold;
+}
+
+.chatResponse {
+    color: #555;
+}
+
+.chatTimestamp {
+    font-size: 0.8rem;
+    color: #999;
+    margin-top: 5px;
+}
+
+/* Optional: Custom scrollbar styles */
+.chatHistory::-webkit-scrollbar {
+    width: 8px;
+}
+
+.chatHistory::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 4px;
+}
+
+.chatHistory::-webkit-scrollbar-thumb:hover {
+    background-color: #aaa;
+}

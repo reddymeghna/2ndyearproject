@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.article {
+  height: 100vh; /* Ensures the article takes full viewport height */
+  background-image: url('../../mysets/images/background.png'); /* Replace with your image URL */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Centers content horizontally */
+  justify-content: flex-start; /* Centers content vertically */
+  padding: 20px;
+}
+
+.header {
+  font-size: 80px;
+  color: white;
+  text-align: left;
+  padding-left:80px ;
+}
+.content {
+  font-size: 1.2rem;
+  color: white;
+  padding-left:180px ;
+}
