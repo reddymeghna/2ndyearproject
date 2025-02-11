@@ -20,7 +20,7 @@ app.post('/generate-verilog', async (req, res) => {
     const prompt = req.body.prompt;
     try {
         const response = await axios.post(
-            'https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3-8B-Instruct',
+            '',
             { inputs: prompt },
             {
                 headers: {
