@@ -73,11 +73,23 @@ cd verilog-code-generator
 ```
 
 ![Screenshot (47)](https://github.com/user-attachments/assets/2244e7f0-7d7c-4347-ac39-fd1f0fc3031e)
+
+
 ![Screenshot (45)](https://github.com/user-attachments/assets/10a39432-e945-4ec6-9771-0c23bbf370cd)
+
+
+
 ![Screenshot (44)](https://github.com/user-attachments/assets/902b89b5-dc08-40eb-9508-36a756be5f80)
+
+
+
 ![Screenshot (51)](https://github.com/user-attachments/assets/bd1ebdee-3f0c-40f4-8481-4525931f6aaf)
 
+
+
 ![Screenshot (52)](https://github.com/user-attachments/assets/47bcac7d-b0e0-467d-9f0b-6a9091b0de70)
+
+
 ![Screenshot (53)](https://github.com/user-attachments/assets/768ef7ad-ca7c-4d07-bcde-4358542ceba8)
 
 
