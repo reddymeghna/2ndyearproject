@@ -79,3 +79,16 @@ cd verilog-code-generator
 
 ![Screenshot (52)](https://github.com/user-attachments/assets/47bcac7d-b0e0-467d-9f0b-6a9091b0de70)
 ![Screenshot (53)](https://github.com/user-attachments/assets/768ef7ad-ca7c-4d07-bcde-4358542ceba8)
+
+
+
+**Model Reference:**
+Phi-2 LLM by Microsoft
+Transformers used: AutoTokenizer, AutoModelForCausalLM from Hugging Face
+
+
+**Full Documentation of Project:** https://docs.google.com/document/d/1qn5AIyiOGei9ySHXWmFgXxqTOp_S3BsZ/edit
+
+
+License
+This project is licensed under the MIT License. Feel free to use and contribute!
