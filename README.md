@@ -70,7 +70,7 @@ This project is an **AI-powered chatbot** that automatically generates **Verilog
 ```bash
 git clone https://github.com/reddymeghna/verilog-code-generator.git
 cd verilog-code-generator
-
+```
 
 ![Screenshot (47)](https://github.com/user-attachments/assets/2244e7f0-7d7c-4347-ac39-fd1f0fc3031e)
 ![Screenshot (45)](https://github.com/user-attachments/assets/10a39432-e945-4ec6-9771-0c23bbf370cd)
