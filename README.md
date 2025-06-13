@@ -81,26 +81,20 @@ cd verilog-code-generator
 ## Architecture Diagram:
 ![Screenshot (193)](https://github.com/user-attachments/assets/c45d3f93-bbb0-4eb8-9102-42cd21075651)
 
-
+## Chat-bot pages:
 ![Screenshot (47)](https://github.com/user-attachments/assets/2244e7f0-7d7c-4347-ac39-fd1f0fc3031e)
 
-
+## Verilog Code Generation:
 ![Screenshot (45)](https://github.com/user-attachments/assets/10a39432-e945-4ec6-9771-0c23bbf370cd)
 
 
-
+## Google Colab Finetuning:
 ![Screenshot (44)](https://github.com/user-attachments/assets/902b89b5-dc08-40eb-9508-36a756be5f80)
 
 
-
 ![Screenshot (51)](https://github.com/user-attachments/assets/bd1ebdee-3f0c-40f4-8481-4525931f6aaf)
-![user drawio (1)](https://github.com/user-attachments/assets/5a4ad8ab-1c03-4909-aca1-213f33ac45a2)
 
-
-
-![Screenshot (52)](https://github.com/user-attachments/assets/47bcac7d-b0e0-467d-9f0b-![user](https://github.com/user-attachments/assets/8548d504-79a7-4cfe-a4f6-838ccf76c392)
-6a9091b0de70)
-
+![Screenshot (52)](https://github.com/user-attachments/assets/47bcac7d-b0e0-467d-9f0b-6a9091b0de70)
 
 ![Screenshot (53)](https://github.com/user-attachments/assets/768ef7ad-ca7c-4d07-bcde-4358542ceba8)
 
