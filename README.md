@@ -79,7 +79,8 @@ git clone https://github.com/reddymeghna/verilog-code-generator.git
 cd verilog-code-generator
 ```
 ## Architecture Diagram:
-![Screenshot (193)](https://github.com/user-attachments/assets/c45d3f93-bbb0-4eb8-9102-42cd21075651)
+![Screenshot (193)](https://github.com/user-attachments/assets/a7c03c3b-5942-44a3-a0b4-b5061b1107bd)
+
 
 ## Chat-bot pages:
 ![Screenshot (47)](https://github.com/user-attachments/assets/2244e7f0-7d7c-4347-ac39-fd1f0fc3031e)
