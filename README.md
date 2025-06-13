@@ -78,6 +78,8 @@ This project is an **AI-powered chatbot** that automatically generates **Verilog
 git clone https://github.com/reddymeghna/verilog-code-generator.git
 cd verilog-code-generator
 ```
+## Architecture Diagram:
+![user](https://github.com/user-attachments/assets/68e9a590-b612-46c4-9e01-9dd68020c636)
 
 ![Screenshot (47)](https://github.com/user-attachments/assets/2244e7f0-7d7c-4347-ac39-fd1f0fc3031e)
 
@@ -91,10 +93,12 @@ cd verilog-code-generator
 
 
 ![Screenshot (51)](https://github.com/user-attachments/assets/bd1ebdee-3f0c-40f4-8481-4525931f6aaf)
+![user drawio (1)](https://github.com/user-attachments/assets/5a4ad8ab-1c03-4909-aca1-213f33ac45a2)
 
 
 
-![Screenshot (52)](https://github.com/user-attachments/assets/47bcac7d-b0e0-467d-9f0b-6a9091b0de70)
+![Screenshot (52)](https://github.com/user-attachments/assets/47bcac7d-b0e0-467d-9f0b-![user](https://github.com/user-attachments/assets/8548d504-79a7-4cfe-a4f6-838ccf76c392)
+6a9091b0de70)
 
 
 ![Screenshot (53)](https://github.com/user-attachments/assets/768ef7ad-ca7c-4d07-bcde-4358542ceba8)
@@ -106,7 +110,7 @@ Phi-2 LLM by Microsoft
 Transformers used: AutoTokenizer, AutoModelForCausalLM from Hugging Face
 
 
-**Full Documentation of Project:** https://docs.google.com/document/d/1qn5AIyiOGei9ySHXWmFgXxqTOp_S3BsZ/edit
+**Full Documentation of Project:** 
 
 
 License
