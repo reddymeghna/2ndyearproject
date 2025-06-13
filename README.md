@@ -4,6 +4,13 @@ This project is an **AI-powered chatbot** that automatically generates **Verilog
 
 ---
 
+![Language: Verilog](https://img.shields.io/badge/Language-Verilog-red?style=for-the-badge)
+![LLM: Phi-2](https://img.shields.io/badge/LLM-Phi--2-5D3FD3?style=for-the-badge)
+![Training: Google Colab](https://img.shields.io/badge/Finetuned%20On-Google%20Colab-FFCE00?style=for-the-badge&logo=google-colab&logoColor=black)
+![Language: Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
 ## 🛠️ Tech Stack
 
 
